@@ -21,6 +21,8 @@ Walkthru runs a property inspection from the front door to the signed report: **
   <img src="docs/screenshots/property.jpg" width="24%" alt="A property with its inspections and contacts">
 </p>
 
+**Sample report:** [docs/sample-report.pdf](docs/sample-report.pdf), the PDF from the demo's short-term rental review of Lakeview Lodge.
+
 Every push to `main` type-checks, lints and tests the code, rebuilds and redeploys the live demo, builds the Android APK, the Google Play bundle and the iOS app, and publishes a release ([`.github/workflows/build.yml`](.github/workflows/build.yml)).
 
 ## Features
